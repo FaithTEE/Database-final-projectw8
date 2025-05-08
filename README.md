@@ -55,6 +55,11 @@ The Student Records Database Management System is a comprehensive relational dat
 - **Unique Constraints**: Prevention of duplicate records
 - **Cascade Actions**: Appropriate deletion behaviors (RESTRICT, CASCADE, SET NULL)
 
+
+## ERD
+
+![alt text](<Screenshot 2025-05-08 173106.png>)
+
 ## Installation
 
 1. Ensure you have MySQL server installed and running
